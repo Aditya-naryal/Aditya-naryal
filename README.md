@@ -36,25 +36,6 @@
 - Hardhat (learning)
 - MongoDB (basic)
 
----
-
-## 📌 Featured Projects
-
-### 🔐 Wallet Authentication DApp
-- Web3 wallet-based authentication using MetaMask
-- Secure login via wallet signature
-- Built with **React + Web3**
-- Focused on real-world authentication flow
-
-### 🧾 Smart Contract Projects
-- Spending / approval-based smart contracts
-- Threshold-based execution logic
-- Solidity best practices & validations
-- Designed for DAO / multisig-style use cases
-
-*(More projects coming — building consistently 🚀)*
-
----
 
 ## 📚 Currently Learning
 
@@ -71,12 +52,6 @@
 - Junior Blockchain Developer roles
 - Open-source collaboration
 - Learning & mentorship opportunities
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [https://github.com/Aditya-naryal](https://github.com/Aditya-naryal)
 
 ---
 
