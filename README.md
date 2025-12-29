@@ -36,23 +36,9 @@
 - Hardhat (learning)
 - MongoDB (basic)
 
-
-## 📚 Currently Learning
-
-- Advanced Solidity patterns
-- Smart contract deployment on testnets
-- Frontend ↔ Blockchain integration
-- Web3 security & gas optimization basics
-
----
-
 ## 🤝 Open To
 
 - Blockchain / Web3 Internships
 - Junior Blockchain Developer roles
 - Open-source collaboration
 - Learning & mentorship opportunities
-
----
-
-⭐ *If you like my work, consider starring my repositories!*  
